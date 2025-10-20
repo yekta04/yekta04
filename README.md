@@ -33,7 +33,7 @@ Bu deneyimler sayesinde takım çalışması, iletişim ve proje yönetimi becer
 ---
 
 ## 📫 İletişim
-📧 **E-posta:** [yekta04@gmail.com](mailto:yekta04@gmail.com)  
+📧 **E-posta:** [yektakahriman@gmail.com](mailto:yektakahriman@gmail.com)  
 🌐 **GitHub:** [github.com/yekta04](https://github.com/yekta04)
 
 ---
